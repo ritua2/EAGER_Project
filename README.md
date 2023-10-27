@@ -1,2 +1,2 @@
 # EAGER_Project
-This repository contains iTracker and CompChecker code components.
+This repository contains CompChecker related components.
